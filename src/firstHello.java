@@ -15,5 +15,6 @@ public class firstHello {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("おはよう");
+        System.out.println("Hello");
     }
 }
